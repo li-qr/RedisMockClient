@@ -10,4 +10,4 @@ java net.leezw.RedisMockClient.CommandParser '*5\r\n:1\r\n:2\r\n:3\r\n:4\r\n$6\r
 ```
 
 参考文档：
-http://redisdoc.com/topic/protocol.htmlç
+http://redisdoc.com/topic/protocol.html

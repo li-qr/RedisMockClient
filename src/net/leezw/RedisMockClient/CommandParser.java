@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Created by 李泉 on 2019-03-05.
  */
-public class CommondParser {
+public class CommandParser {
 
   private static final char STATUS = '+';
   private static final char ERROR = '-';
